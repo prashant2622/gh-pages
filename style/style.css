@@ -1,0 +1,21 @@
+*{margin:0px; padding:0px;}
+.wrap{min-width:500px;}
+.header{hieght:200px; padding:0px; border:0px;}
+.header img{height:30%;
+width:100%; padding:0px;}
+.left{width:25%; float:left; height:100%;}
+.left img{width:100%; height:100%;}
+.content{float:left; width:50%; height:100%; overflow:auto;
+background:url('../images/logo.PNG'); background-repeat:no-repeat;
+background-size:cover; background-position:left-center;}
+.right{float:right; width:25%; height:100%;}
+.right img{width:100%; height:100%;}
+.townhalls img{height:500px; width:300px; display:inline;
+text-align:justify;
+margin:60px; 
+ padding:7px; border:10px solid black;}
+ .townhalls{max-width:60%; min-width:50%; margin:auto;
+ }
+h2{font-size:76px; margin-bottom:20px; color:green;
+background-color:gold;text-align:center;}
+ img:hover{background-color:gold; border-color:yellow; color:blue;}
